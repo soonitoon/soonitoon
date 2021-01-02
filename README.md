@@ -10,6 +10,7 @@ My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also in
 Try my mobile Apps📱
 
 Visite my **EXPO :** https://expo.io/@soonitoon
+Visite my **Blog :** https://velog.io/@soonitoon
 
 ## StatusBar
 
