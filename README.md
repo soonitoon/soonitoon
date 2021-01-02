@@ -7,6 +7,10 @@
 
 My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also interested in Programming! My first programming language is ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python) I currently learing FrontEnd stack📚
 
+Try my mobile Apps📱
+
+Visite my **EXPO :** https://expo.io/@soonitoon
+
 ## StatusBar
 
 ![HyunoChoi's state](https://github-readme-stats.vercel.app/api?username=soonitoon&show_icons=true&theme=tokyonight)
