@@ -19,6 +19,6 @@ Visite my **Blog :** https://velog.io/@soonitoon
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soonitoon&theme=tokyonight)
 
-## Language
+## Language&Framework
 
-![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python)
+![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python) ![React](http://img.shields.io/badge/-React-white?style=flat&logo=react)
