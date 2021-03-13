@@ -13,6 +13,8 @@ Visite my **EXPO :** https://expo.io/@soonitoon
 
 Visite my **Blog :** https://velog.io/@soonitoon
 
+Visite my **NPM :** https://www.npmjs.com/~soonitoon
+
 ## StatusBar
 
 ![HyunoChoi's state](https://github-readme-stats.vercel.app/api?username=soonitoon&show_icons=true&theme=tokyonight)
