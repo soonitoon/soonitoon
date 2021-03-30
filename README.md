@@ -5,7 +5,7 @@
 - 💬 Ask me anything!
 - 📫 How to reach me: soonitoon@gmail.com
 
-My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also interested in Programming! My first programming language is ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python) I currently learing FrontEnd stack📚
+My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also interested in Programming! My first programming language is ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python). I currently learing FrontEnd stack📚
 
 Try my mobile Apps📱
 
