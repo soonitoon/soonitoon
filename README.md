@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm hyuno Choi
 
 - 🔭 I’m currently enrolled in Chungbuk National University
-- 🌱 I’m currently learning ![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![React](http://img.shields.io/badge/-React-white?style=flat&logo=react)
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - 💬 Ask me anything!
 - 📫 How to reach me: soonitoon@gmail.com
 
@@ -25,4 +25,4 @@ Visite my...
 
 ## Language&Framework
 
-![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python) ![React](http://img.shields.io/badge/-React-white?style=flat&logo=react)
+![HTML](http://img.shields.io/badge/-html-E96228?style=flat&logo=HTML5) ![CSS](http://img.shields.io/badge/-css-3595CF?style=flat&logo=CSS3) ![Javascript](http://img.shields.io/badge/-Javascript-white?style=flat&logo=javaScript) ![python](http://img.shields.io/badge/-Python-white?style=flat&logo=Python) ![React](http://img.shields.io/badge/-React-white?style=flat&logo=react) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
