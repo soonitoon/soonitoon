@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - 💬 Ask me anything!
 - 📫 How to reach me: soonitoon@gmail.com
-- ![MacBook_Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 My major is **psycologyΨ** and **Brain-Cognitive Engineering**⚙🧠 I also interested in Programming! My first programming language is ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white). I'm currently learing FrontEnd stack📚
 
@@ -33,3 +32,7 @@ Visite my...
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+## Laptop
+
+![MacBook_Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
