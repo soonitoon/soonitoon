@@ -11,9 +11,9 @@ Try my mobile Apps📱
 
 Visite my...
 
-- **EXPO :** https://expo.io/@soonitoon
+- **TIL📝 :** https://soonitoon.github.io/TIL
 
-- **Blog :** https://velog.io/@soonitoon
+- **Blog📖 :** https://velog.io/@soonitoon
 
 - **NPM :** https://www.npmjs.com/~soonitoon
 
